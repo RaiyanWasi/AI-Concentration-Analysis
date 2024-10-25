@@ -15,3 +15,9 @@ AI-Concentration-Analysis/
 │   └── data_visualization.py
 └── README.md
 
+### How to Run the Project
+
+1. **Clone the repository**:
+2. **Set up a virtual environment**
+3. **Install the required packages**
+4. **Run the pipeline**
